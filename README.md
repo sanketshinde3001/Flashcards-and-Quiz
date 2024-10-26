@@ -1,34 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# 1. Recipe Generator Bot
+In this project, I developed an interactive Flashcard and Quiz Generator App using React, styled with Tailwind CSS, and enhanced with Shadcn UI components for a polished user experience.
 
-First, run the development server:
+- Flashcard Generation:
+Users can create flashcards by entering a topic or concept. The app automatically generates flashcards with key terms, definitions, and helpful examples through internal logic or AI-based integration.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- Interactive Quiz Generation:
+Users can generate quizzes based on a specific topic or concept. The app uses predefined logic (or AI) to create adaptive quizzes, delivering questions that help users assess and reinforce their knowledge.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 2. Name of Issue/Topic
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+⭐ 17 - Interactive Flashcards (Hacktoberfest Demo) #629
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 3. Technologies Being Used
 
-## Learn More
+List the technologies and frameworks you used (e.g., CopilotKit, Next.js)
+- [Next.js](https://nextjs.org)
+- [Tailwind CSS](https://tailwindcss.com)
+- [CopilotKit](https://copilotkit.ai)
+- [ShadCN](https://ui.shadcn.com)
 
-To learn more about Next.js, take a look at the following resources:
+## 4. GitHub Project Link
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [REPO](https://github.com/sanketshinde3001/Flashcards-and-Quiz)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### 5 Live Link
 
-## Deploy on Vercel
+- [Live app]()
+ 
+## 6. Screenshot
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![image](https://github.com/user-attachments/assets/114bc863-1330-4af1-bb3c-b7b6c9b98487)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![image](https://github.com/user-attachments/assets/5c6e309e-eff5-4b66-a400-4fbf0777b52c)
+
+![image](https://github.com/user-attachments/assets/81de24b6-0cbb-47f2-9b1b-0f74cfc42ab8)
+
+## 7. Who am i?
+
+Please list your **GitHub** and **Twitter** handles if you feel comfortable doing so. 
+
+- [sanket on github](https://github.com/sanketshinde3001)
+- [sanket on X](https://x.com/sanketshinde04)
+
+## 8. Posts
+
+- A dev.to blog link - [Link](https://dev.to/sanketshinde/building-an-interactive-flashcard-and-quiz-generator-app-be8)
+- Tweet link - [Link](https://x.com/sanketshinde04/status/1850229190047482138)
