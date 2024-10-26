@@ -1,5 +1,5 @@
 
-#  Flashcard and Quiz Generator Bot
+## 1. Flashcard and Quiz Generator Bot
 In this project, I developed an interactive Flashcard and Quiz Generator App using React, styled with Tailwind CSS, and enhanced with Shadcn UI components for a polished user experience.
 
 - Flashcard Generation:
@@ -24,7 +24,7 @@ List the technologies and frameworks you used (e.g., CopilotKit, Next.js)
 
 - [REPO](https://github.com/sanketshinde3001/Flashcards-and-Quiz)
 
-### 5 Live Link
+## 5 Live Link
 
 - [Live app]()
  
