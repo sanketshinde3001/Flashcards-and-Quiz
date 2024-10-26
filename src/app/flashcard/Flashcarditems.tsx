@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Flashcard } from '../typs';
+import { Flashcard } from './typs';
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { ChevronDown, ChevronUp, BookOpen } from "lucide-react";
