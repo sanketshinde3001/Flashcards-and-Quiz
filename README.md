@@ -1,5 +1,5 @@
 
-# 1. Recipe Generator Bot
+#  Flashcard and Quiz Generator Bot
 In this project, I developed an interactive Flashcard and Quiz Generator App using React, styled with Tailwind CSS, and enhanced with Shadcn UI components for a polished user experience.
 
 - Flashcard Generation:
